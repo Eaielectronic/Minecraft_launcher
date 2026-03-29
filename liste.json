@@ -4,6 +4,7 @@
     "forge_installer_url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/forge-1.20.1-47.4.10-installer.jar",
     "auto-game":true,
     "game-ip": "srv1.appel.ovh"
+    "server_port": "25565"
     "mods": [
         {
             "name": "Create Mod",
