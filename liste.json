@@ -2,21 +2,29 @@
     "minecraft_version": "1.20.1",
     "forge_version": "47.4.10",
     "forge_installer_url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/forge-1.20.1-47.4.10-installer.jar",
-    "auto-game":true,
+    "auto-game": true,
     "game-ip": "srv1.appel.ovh",
     "server_port": "25565",
     "mods": [
         {
             "name": "Create Mod",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/create-1.20.1-6.0.8.jar",
-            "name":"canary",
-           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/canary-mc1.20.1-0.3.3.jar",
-            "name":"Embedium",
-           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/embeddium-0.3.31+mc1.20.1.jar",
-            "name":"FerriCorre",
-           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ferritecore-6.0.1-forge.jar",
-            "name":"ModernFix",
-           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/modernfix-forge-5.26.2+mc1.20.1.jar"
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/create-1.20.1-6.0.8.jar"
+        },
+        {
+            "name": "canary",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/canary-mc1.20.1-0.3.3.jar"
+        },
+        {
+            "name": "Embedium",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/embeddium-0.3.31+mc1.20.1.jar"
+        },
+        {
+            "name": "FerriteCore",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ferritecore-6.0.1-forge.jar"
+        },
+        {
+            "name": "ModernFix",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/modernfix-forge-5.26.2+mc1.20.1.jar"
         }
     ],
     "ram_min": "1G",
