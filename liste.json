@@ -14,7 +14,9 @@
             "name":"Embedium",
            "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/embeddium-0.3.31+mc1.20.1.jar",
             "name":"FerriCorre",
-           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ferritecore-6.0.1-forge.jar"
+           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ferritecore-6.0.1-forge.jar",
+            "name":"ModernFix",
+           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/modernfix-forge-5.26.2+mc1.20.1.jar"
         }
     ],
     "ram_min": "1G",
