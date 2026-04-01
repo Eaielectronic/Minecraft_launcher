@@ -10,7 +10,9 @@
             "name": "Create Mod",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/create-1.20.1-6.0.8.jar",
             "name":"canary",
-           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/canary-mc1.20.1-0.3.3.jar"
+           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/canary-mc1.20.1-0.3.3.jar",
+            "name":"Embedium",
+           "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/embeddium-0.3.31+mc1.20.1.jar"
         }
     ],
     "ram_min": "1G",
