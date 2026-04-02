@@ -25,16 +25,6 @@
         {
             "name": "ModernFix",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/modernfix-forge-5.26.2+mc1.20.1.jar"
-        },
-        {
-            "name": "Auth",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/SimpleLogin-1.20.1-1.0.2-all.jar"
-          
-        },
-{
-            "name": "skin",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/CustomSkinLoader_ForgeV2-14.28.jar"
-          
         }
 
         
