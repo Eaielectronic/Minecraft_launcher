@@ -11,7 +11,7 @@
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/create-1.20.1-6.0.8.jar"
         },
         {
-            "name": "canary",
+            "name": "Canary",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/canary-mc1.20.1-0.3.3.jar"
         },
         {
@@ -25,9 +25,23 @@
         {
             "name": "ModernFix",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/modernfix-forge-5.26.2+mc1.20.1.jar"
+        },
+        {
+            "name": "Farmer's Delight",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/FarmersDelight-1.20.1-1.2.11.jar"
+        },
+        {
+            "name": "Create Stuff & Additions",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/create-stuff-additions1.20.1_v2.1.1.jar"
+        },
+        {
+            "name": "Cultural Delights",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/culturaldelights-0.16.5.jar"
+        },
+        {
+            "name": "Lightman's Currency",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/lightmanscurrency-1.20.1-2.3.0.4e.jar"
         }
-
-        
     ],
     "ram_min": "1G",
     "ram_max": "4G",
