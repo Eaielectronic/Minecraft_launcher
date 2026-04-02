@@ -7,85 +7,93 @@
     <style>
         /* Style général inspiré de Minecraft */
         body {
-            font-family: 'Minecraft', 'Segoe UI', Arial, sans-serif; [cite: 3, 4]
-            background-color: #36393f; [cite: 5]
-            color: #dddddd; [cite: 6]
-            margin: 0; [cite: 7]
-            padding: 20px; [cite: 7]
-            line-height: 1.6; [cite: 7]
-            text-shadow: 2px 2px #222; [cite: 7]
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background-color: #313338; /* Couleur sombre type Discord/Minecraft */
+            color: #dbdee1;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
         }
 
         .container {
-            max-width: 800px; [cite: 8]
-            margin: 20px auto; [cite: 8]
-            background-color: #2b2d31; [cite: 9]
-            border: 2px solid #5a5a5a; [cite: 9]
-            border-radius: 8px; [cite: 10]
-            padding: 25px; [cite: 10]
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); [cite: 10]
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #2b2d31;
+            border: 2px solid #1e1f22;
+            border-radius: 8px;
+            padding: 25px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
         }
 
         h1 {
-            color: #aaccff; [cite: 11]
-            text-align: center; [cite: 12]
-            margin-bottom: 30px; [cite: 12]
-            font-size: 2.2em; [cite: 12]
-            border-bottom: 2px solid #5a5a5a; [cite: 12]
-            padding-bottom: 15px; [cite: 12]
+            color: #ffffff;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.2em;
+            border-bottom: 2px solid #4e5058;
+            padding-bottom: 15px;
+            text-shadow: 2px 2px #000;
         }
 
         h2 {
-            color: #ffaa00; [cite: 13]
-            margin-top: 25px; [cite: 14]
-            margin-bottom: 10px; [cite: 14]
-            font-size: 1.5em; [cite: 14]
+            color: #ffaa00;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 1.5em;
         }
 
-        /* Style spécifique pour les performances */
+        /* Boîte de performance */
         .perf-box {
-            background-color: #2e3b2e;
-            border: 1px solid #4CAF50;
-            padding: 15px;
+            background-color: #232d23;
+            border: 1px solid #43b581;
+            padding: 20px;
             border-radius: 6px;
-            margin-bottom: 20px;
+            margin-bottom: 25px;
         }
 
         .stat-bar {
-            display: inline-block;
-            color: #4CAF50;
+            color: #43b581;
             font-weight: bold;
-            font-size: 1.1em;
         }
 
         ul {
-            list-style-type: none; [cite: 16]
-            padding: 0; [cite: 17]
+            list-style-type: none;
+            padding: 0;
         }
 
         li {
-            background-color: #3b3d42; [cite: 18]
-            border-left: 4px solid #4CAF50; [cite: 19]
-            margin-bottom: 10px; [cite: 20]
-            padding: 15px; [cite: 20]
-            border-radius: 4px; [cite: 20]
-            position: relative; [cite: 21]
+            background-color: #383a40;
+            border-left: 4px solid #5865f2;
+            margin-bottom: 12px;
+            padding: 15px;
+            border-radius: 4px;
+            overflow: hidden; /* Empêche le float de déborder */
         }
 
         .mod-name {
-            color: #55ccee; [cite: 26]
-            font-weight: bold; [cite: 27]
+            color: #00aaff;
+            font-weight: bold;
         }
 
         .rule {
-            color: #ffcc00; [cite: 28]
-            font-weight: bold; [cite: 29]
+            color: #ffcc00;
+            font-weight: bold;
         }
 
         .date {
-            float: right; [cite: 23]
-            color: #888; [cite: 23]
-            font-size: 0.9em; [cite: 23]
+            float: right;
+            color: #949ba4;
+            font-size: 0.85em;
+            font-style: italic;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #949ba4;
+            border-top: 1px solid #4e5058;
+            padding-top: 15px;
         }
     </style>
 </head>
@@ -93,7 +101,7 @@
     <div class="container">
         <h1>Annonces du Serveur <span style="color: #FF5555;">Forge</span></h1>
 
-        <p>Bienvenue sur le serveur ! [cite: 30] Retrouvez ici les dernières nouveautés pour votre aventure. [cite: 30]</p>
+        <p>Bienvenue sur le serveur ! Retrouvez ici les dernières nouveautés pour votre aventure.</p>
 
         <div class="perf-box">
             <h2 style="margin-top: 0; color: #55FF55;">⚡ Mise à jour : Performance Client</h2>
@@ -107,10 +115,10 @@
 
         <h2>Règlement du Serveur</h2>
         <ul>
-            <li><p><span class="rule">Pas de Griefing :</span> Destruction et vol interdits. [cite: 31]</p></li>
-            <li><p><span class="rule">Pas de Triche :</span> Clients modifiés prohibés. [cite: 31]</p></li>
-            <li><p><span class="rule">Respect :</span> Propos haineux non tolérés. [cite: 32]</p></li>
-            <li><p><span class="rule">Fermes à Lag :</span> Optimisez vos machines Create ! [cite: 33]</p></li>
+            <li><span class="rule">Pas de Griefing :</span> Destruction et vol interdits.</li>
+            <li><span class="rule">Pas de Triche :</span> Clients modifiés (hacks) prohibés.</li>
+            <li><span class="rule">Respect :</span> Propos haineux ou toxiques non tolérés.</li>
+            <li><span class="rule">Fermes à Lag :</span> Optimisez vos machines Create pour le serveur !</li>
         </ul>
 
         <h2>Dernières Mises à Jour</h2>
@@ -118,17 +126,17 @@
             <li>
                 <span class="date">1 avril 2026</span>
                 <strong>Optimisation et Stabilité</strong>
-                <p>Ajout de la suite de mods <span class="mod-name">Embeddium</span>, <span class="mod-name">Canary</span> et <span class="mod-name">ModernFix</span> pour une fluidité maximale. [cite: 34, 35]</p>
+                <p style="margin: 5px 0 0 0;">Ajout de la suite de mods <span class="mod-name">Embeddium</span>, <span class="mod-name">Canary</span> et <span class="mod-name">ModernFix</span>.</p>
             </li>
             <li>
                 <span class="date">28 mars 2026</span>
                 <strong>Mod <span class="mod-name">Create</span> en Survie !</strong>
-                <p>Le célèbre mod <span class="mod-name">Create</span> est activé ! [cite: 36] Construisez vos usines complexes. [cite: 36]</p>
+                <p style="margin: 5px 0 0 0;">Le célèbre mod <span class="mod-name">Create</span> est désormais activé. Construisez vos usines complexes !</p>
             </li>
         </ul>
 
         <div class="footer">
-            Serveur privé. [cite: 38]
+            Serveur privé — Bon jeu à tous !
         </div>
     </div>
 </body>
