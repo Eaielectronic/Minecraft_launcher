@@ -46,6 +46,10 @@
             "name": "Valkyrien Skies",
             "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/DiPIynfN/valkyrienskies-120-2.4.10.jar"
         }
+        ,{
+            "name": "kotlin for forge",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/kotlinforforge-4.12.0-all.jar"
+        }
     ],
     "ram_min": "1G",
     "ram_max": "4G",
