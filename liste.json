@@ -41,6 +41,10 @@
         {
             "name": "Lightman's Currency",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/lightmanscurrency-1.20.1-2.3.0.4e.jar"
+        },
+        {
+            "name": "Valkyrien Skies",
+            "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/DiPIynfN/valkyrienskies-120-2.4.10.jar"
         }
     ],
     "ram_min": "1G",
