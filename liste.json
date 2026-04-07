@@ -49,6 +49,11 @@
         ,{
             "name": "kotlin for forge",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/kotlinforforge-4.12.0-all.jar"
+        },
+        
+        {
+            "name": "Valkyrien Skies Dépendance",
+            "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/eureka-1201-1.6.1.jar"
         }
     ],
     "ram_min": "1G",
