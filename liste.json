@@ -39,6 +39,10 @@
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/culturaldelights-0.16.5.jar"
         },
         {
+            "name": "Oculus",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/oculus-mc1.20.1-1.8.0.jar"
+        },
+        {
             "name": "Lightman's Currency",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/lightmanscurrency-1.20.1-2.3.0.4e.jar"
         },
