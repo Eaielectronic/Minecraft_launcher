@@ -53,6 +53,10 @@
         {
             "name": "Valkyrien Skies Dépendance",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/eureka-1201-1.6.1.jar"
+        },
+        {
+            "name": "Just Enough Items (JEI)",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/jei-1.20.1-forge-15.20.0.129.jar"
         }
     ],
     "shaderpacks": [
