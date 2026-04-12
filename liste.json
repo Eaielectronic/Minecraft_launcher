@@ -45,15 +45,26 @@
         {
             "name": "Valkyrien Skies",
             "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/DiPIynfN/valkyrienskies-120-2.4.10.jar"
-        }
-        ,{
+        },
+        {
             "name": "kotlin for forge",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/kotlinforforge-4.12.0-all.jar"
         },
-        
         {
             "name": "Valkyrien Skies Dépendance",
-            "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/eureka-1201-1.6.1.jar"
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/eureka-1201-1.6.1.jar"
+        }
+    ],
+    "shaderpacks": [
+        {
+            "name": "Complementary Reimagined",
+            "description": "Un shader équilibré qui préserve le style Minecraft avec des effets modernes.",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ComplementaryReimagined_r5.7.1.zip"
+        },
+        {
+            "name": "Complementary Unbound",
+            "description": "Version plus réaliste et poussée de Complementary pour de meilleurs visuels.",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ComplementaryUnbound_r5.7.1.zip"
         }
     ],
     "ram_min": "1G",
