@@ -57,6 +57,10 @@
         {
             "name": "Just Enough Items (JEI)",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/jei-1.20.1-forge-15.20.0.129.jar"
+        },
+        {
+            "name": "Not Chet report",
+            "url":"https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/NoChatReports-FABRIC-26.1-v2.19.0.jar"
         }
     ],
     "shaderpacks": [
