@@ -73,6 +73,10 @@
         {
             "name": "Architectury API",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/architectury-9.2.14-forge.jar"
+        },
+        {
+            "name": "InsaneLib (Progressive Bosses)",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/insanelib-1.23.4.4(1).jar"
         }
     ],
     "shaderpacks": [
