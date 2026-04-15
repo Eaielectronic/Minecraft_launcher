@@ -61,6 +61,18 @@
         {
             "name": "No Chet Report",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
+        },
+        {
+            "name": "Rhino (KubeJS)",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/rhino-forge-2001.2.3-build.10.jar"
+        },
+        {
+            "name": "KubeJS",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/kubejs-forge-2001.6.5-build.16.jar"
+        },
+        {
+            "name": "Architectury API",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/architectury-9.2.14-forge.jar"
         }
     ],
     "shaderpacks": [
