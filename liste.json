@@ -1,82 +1,106 @@
 {
-    "minecraft_version": "1.20.1",
-    "forge_version": "47.4.10",
-    "forge_installer_url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/forge-1.20.1-47.4.10-installer.jar",
+    "minecraft_version": "1.21.1",
+    "forge_version": "21.1.227",
+    "forge_installer_url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/neoforge-21.1.227-installer.jar",
     "auto-game": true,
     "game-ip": "srv1.appel.ovh",
     "server_port": "25565",
     "mods": [
         {
-            "name": "Create Mod",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/create-1.20.1-6.0.8.jar"
+            "name": "Stellarity",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/Stellarity-3.0.6.1.jar"
         },
         {
-            "name": "Embedium",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/embeddium-0.3.31+mc1.20.1.jar"
+            "name": "Alloyed",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/alloyed-3.0.7+1.21.1-neoforge.jar"
         },
         {
-            "name": "FerriteCore",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ferritecore-6.0.1-forge.jar"
-        },
-        {
-            "name": "ModernFix",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/modernfix-forge-5.26.2+mc1.20.1.jar"
-        },
-        {
-            "name": "Farmer's Delight",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/FarmersDelight-1.20.1-1.2.11.jar"
-        },
-        {
-            "name": "Create Stuff & Additions",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/create-stuff-additions1.20.1_v2.1.1.jar"
-        },
-        {
-            "name": "Cultural Delights",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/culturaldelights-0.16.5.jar"
-        },
-        {
-            "name": "Oculus",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/oculus-mc1.20.1-1.8.0.jar"
-        },
-        {
-            "name": "Lightman's Currency",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/lightmanscurrency-1.20.1-2.3.0.4e.jar"
-        },
-        {
-            "name": "Valkyrien Skies",
-            "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/DiPIynfN/valkyrienskies-120-2.4.10.jar"
-        },
-        {
-            "name": "kotlin for forge",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/kotlinforforge-4.12.0-all.jar"
-        },
-        {
-            "name": "Valkyrien Skies Dépendance",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/eureka-1201-1.6.1.jar"
-        },
-        {
-            "name": "Just Enough Items (JEI)",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/jei-1.20.1-forge-15.20.0.129.jar"
-        },
-        {
-            "name": "No Chet Report",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
-        },
-        {
-            "name": "Rhino (KubeJS)",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/rhino-forge-2001.2.3-build.10.jar"
-        },
-        {
-            "name": "KubeJS",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/kubejs-forge-2001.6.5-build.16.jar"
+            "name": "Amendments",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/amendments-1.21-2.0.15-neoforge.jar"
         },
         {
             "name": "Architectury API",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/architectury-9.2.14-forge.jar"
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/architectury-13.0.8-neoforge.jar"
         },
         {
-            "name": "InsaneLib (Progressive Bosses)",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/insanelib-1.23.4.4(1).jar"
+            "name": "Copycats",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+        },
+        {
+            "name": "Create Mod",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/create-1.21.1-6.0.10.jar"
+        },
+        {
+            "name": "Create New Age",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/create-new-age-1.1.7c+neoforge-mc1.21.1.jar"
+        },
+        {
+            "name": "Create Stuff Additions",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/create-stuff-additions1.21.1_v2.1.0e.jar"
+        },
+        {
+            "name": "Create Connected",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/create_connected-1.1.13-mc1.21.1.jar"
+        },
+        {
+            "name": "Create Mechanical Extruder",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar"
+        },
+        {
+            "name": "Electrodynamics",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/electrodynamics-1.21.1-1.0.2.jar"
+        },
+        {
+            "name": "KubeJS",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/kubejs-neoforge-2101.7.2-build.348.jar"
+        },
+        {
+            "name": "Moonlight Lib",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/moonlight-1.21-2.29.33-neoforge.jar"
+        },
+        {
+            "name": "Nuclear Science",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/nuclearscience-1.21.1-0.8.1-0.jar"
+        },
+        {
+            "name": "Rhino",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/rhino-2101.2.7-build.81.jar"
+        },
+        {
+            "name": "Sable",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/sable-neoforge-1.21.1-1.1.3.jar"
+        },
+        {
+            "name": "Supplementaries",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/supplementaries-1.21-3.5.34-neoforge.jar"
+        },
+        {
+            "name": "Voltaic",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/voltaic-1.21.1-1.0.2-0.jar"
+        },
+        {
+            "name": "Simple Voice Chat",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/voicechat-neoforge-1.21.1-2.6.16.jar"
+        },
+        {
+            "name": "Sodium",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/sodium-neoforge-0.6.13+mc1.21.1.jar"
+        },
+        {
+            "name": "Lithium",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/lithium-neoforge-0.15.3+mc1.21.1.jar"
+        },
+        {
+            "name": "Iris",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/iris-neoforge-1.8.12+mc1.21.1.jar"
+        },
+        {
+            "name": "FerriteCore",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/ferritecore-7.0.3-neoforge.jar"
+        },
+        {
+            "name": "Create Aeronautics",
+            "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/1sv6OtSz/create-aeronautics-bundled-1.21.1-1.1.3.jar"
         }
     ],
     "shaderpacks": [
@@ -84,11 +108,6 @@
             "name": "Complementary Reimagined",
             "description": "Un shader équilibré qui préserve le style Minecraft avec des effets modernes.",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ComplementaryReimagined_r5.7.1.zip"
-        },
-        {
-            "name": "Complementary Unbound",
-            "description": "Version plus réaliste et poussée de Complementary pour de meilleurs visuels.",
-            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ComplementaryUnbound_r5.7.1.zip"
         }
     ],
     "ram_min": "1G",
