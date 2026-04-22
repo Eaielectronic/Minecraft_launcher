@@ -120,6 +120,11 @@
             "name": "Complementary Reimagined",
             "description": "Un shader équilibré qui préserve le style Minecraft avec des effets modernes.",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ComplementaryReimagined_r5.7.1.zip"
+        },
+        {
+            "name": "CComplementary Unbound",
+            "description": "Un shader au aspects réalistes.",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/ComplementaryUnbound_r5.7.1.zip"
         }
     ],
     "ram_min": "1G",
