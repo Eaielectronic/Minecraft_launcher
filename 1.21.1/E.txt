@@ -77,6 +77,10 @@
         {
             "name": "Voltaic",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/voltaic-1.21.1-1.0.2-0.jar"
+        },
+        {
+            "name": "Simple Voice Chat",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/voicechat-neoforge-1.21.1-2.6.16.jar"
         }
     ],
     "shaderpacks": [
