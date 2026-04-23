@@ -3,141 +3,135 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Annonces Serveur Forge</title>
+    <title>Annonces NeoForge 1.21.1</title>
     <style>
-        /* Style général inspiré de Minecraft */
         body {
-            font-family: 'Segoe UI', Arial, sans-serif;
-            background-color: #313338; /* Couleur sombre type Discord/Minecraft */
-            color: #dbdee1;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
             margin: 0;
             padding: 20px;
-            line-height: 1.6;
+            line-height: 1.5;
         }
 
         .container {
-            max-width: 800px;
-            margin: 20px auto;
-            background-color: #2b2d31;
-            border: 2px solid #1e1f22;
-            border-radius: 8px;
-            padding: 25px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+            max-width: 850px;
+            margin: 0 auto;
+            background-color: #242424;
+            border: 1px solid #333;
+            /* Coins strictement carrés */
+            border-radius: 0;
+            padding: 30px;
         }
 
         h1 {
-            color: #ffffff;
-            text-align: center;
-            margin-bottom: 30px;
-            font-size: 2.2em;
-            border-bottom: 2px solid #4e5058;
-            padding-bottom: 15px;
-            text-shadow: 2px 2px #000;
+            color: #fff;
+            text-align: left;
+            margin-top: 0;
+            border-bottom: 3px solid #cf142b; /* Rouge NeoForge */
+            padding-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
 
         h2 {
-            color: #ffaa00;
-            margin-top: 25px;
-            margin-bottom: 15px;
-            font-size: 1.5em;
+            color: #cf142b;
+            font-size: 1.3em;
+            margin-top: 30px;
+            border-left: 4px solid #cf142b;
+            padding-left: 10px;
         }
 
-        /* Boîte de performance */
-        .perf-box {
-            background-color: #232d23;
-            border: 1px solid #43b581;
-            padding: 20px;
-            border-radius: 6px;
-            margin-bottom: 25px;
-        }
-
-        .stat-bar {
-            color: #43b581;
-            font-weight: bold;
+        .info-box {
+            background-color: #1e1e1e;
+            border: 1px solid #444;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 0;
         }
 
         ul {
-            list-style-type: none;
+            list-style: none;
             padding: 0;
         }
 
         li {
-            background-color: #383a40;
-            border-left: 4px solid #5865f2;
-            margin-bottom: 12px;
-            padding: 15px;
-            border-radius: 4px;
-            overflow: hidden; /* Empêche le float de déborder */
+            background-color: #2d2d2d;
+            margin-bottom: 5px;
+            padding: 12px;
+            border: 1px solid #383838;
+            border-radius: 0;
         }
 
-        .mod-name {
-            color: #00aaff;
-            font-weight: bold;
-        }
-
-        .rule {
-            color: #ffcc00;
+        .highlight {
+            color: #ffaa00;
             font-weight: bold;
         }
 
         .date {
             float: right;
-            color: #949ba4;
+            color: #777;
             font-size: 0.85em;
-            font-style: italic;
         }
 
         .footer {
             text-align: center;
-            margin-top: 30px;
-            font-size: 0.9em;
-            color: #949ba4;
-            border-top: 1px solid #4e5058;
-            padding-top: 15px;
+            margin-top: 40px;
+            font-size: 0.8em;
+            color: #555;
+            text-transform: uppercase;
+        }
+
+        /* Nettoyage du float */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
         }
     </style>
 </head>
 <body>
+
     <div class="container">
-        <h1>Annonces du Serveur <span style="color: #FF5555;">Forge</span></h1>
+        <h1>Serveur <span style="color: #cf142b;">NeoForge</span> 1.21.1</h1>
 
-        <p>Bienvenue sur le serveur ! Retrouvez ici les dernières nouveautés pour votre aventure.</p>
+        <p>Statut du serveur : <strong>En ligne</strong></p>
 
-        <div class="perf-box">
-            <h2 style="margin-top: 0; color: #55FF55;">⚡ Mise à jour : Performance Client</h2>
-            <p>Nous avons intégré de nouveaux mods d'optimisation pour une expérience ultra-fluide :</p>
+        <div class="info-box">
+            <h2 style="margin-top: 0; border: none; padding: 0;">Performance & Optimisation</h2>
+            <p>Configuration client recommandée pour la version 1.21.1 :</p>
             <ul>
-                <li><span class="mod-name">Embeddium & Canary</span> : <span class="stat-bar">+200% de FPS</span> constatés.</li>
-                <li><span class="mod-name">FerriteCore</span> : Réduction de <span class="stat-bar">50% de la RAM</span> utilisée.</li>
-                <li><span class="mod-name">ModernFix</span> : Chargement du jeu <span class="stat-bar">30% plus rapide</span>.</li>
+                <li><span class="highlight">Embeddium</span> : Moteur de rendu optimisé.</li>
+                <li><span class="highlight">FerriteCore</span> : Optimisation drastique de la mémoire vive.</li>
+                <li><span class="highlight">ModernFix</span> : Corrections de bugs et rapidité de lancement.</li>
             </ul>
         </div>
 
-        <h2>Règlement du Serveur</h2>
+        <h2>Règles essentielles</h2>
         <ul>
-            <li><span class="rule">Pas de Griefing :</span> Destruction et vol interdits.</li>
-            <li><span class="rule">Pas de Triche :</span> Clients modifiés (hacks) prohibés.</li>
-            <li><span class="rule">Respect :</span> Propos haineux ou toxiques non tolérés.</li>
-            <li><span class="rule">Fermes à Lag :</span> Optimisez vos machines Create pour le serveur !</li>
+            <li><strong>Comportement :</strong> Respect et fair-play obligatoires.</li>
+            <li><strong>Exploits :</strong> Utilisation de bugs ou cheats interdite.</li>
+            <li><strong>Machines :</strong> Limitez les entités pour préserver les TPS du serveur.</li>
         </ul>
 
-        <h2>Dernières Mises à Jour</h2>
+        <h2>Historique des modifications</h2>
         <ul>
-            <li>
-                <span class="date">1 avril 2026</span>
-                <strong>Optimisation et Stabilité</strong>
-                <p style="margin: 5px 0 0 0;">Ajout de la suite de mods <span class="mod-name">Embeddium</span>, <span class="mod-name">Canary</span> et <span class="mod-name">ModernFix</span>.</p>
+            <li class="clearfix">
+                <span class="date">23 Avril 2026</span>
+                <strong>Migration NeoForge</strong>
+                <p style="margin: 5px 0 0 0;">Passage réussi vers la version stable 1.21.1.</p>
             </li>
-            <li>
-                <span class="date">28 mars 2026</span>
-                <strong>Mod <span class="mod-name">Create</span> en Survie !</strong>
-                <p style="margin: 5px 0 0 0;">Le célèbre mod <span class="mod-name">Create</span> est désormais activé. Construisez vos usines complexes !</p>
+            <li class="clearfix">
+                <span class="date">15 Avril 2026</span>
+                <strong>Mise à jour Mods</strong>
+                <p style="margin: 5px 0 0 0;">Mise à jour des librairies techniques et de Create.</p>
             </li>
         </ul>
 
         <div class="footer">
-            Serveur privé — Bon jeu à tous !
+            Instance NeoForge 1.21.1 — Administration
         </div>
     </div>
+
 </body>
 </html>
