@@ -113,6 +113,10 @@
         {
             "name": "ModernFix",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/modernfix-neoforge-5.27.2+mc1.21.1.jar"
+        },
+        {
+            "name": "Create Canons",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/createbigcannons-5.11.2+mc.1.21.1.jar"
         }
     ],
     "shaderpacks": [
