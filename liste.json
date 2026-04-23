@@ -117,6 +117,10 @@
         {
             "name": "Create Canons",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/createbigcannons-5.11.2+mc.1.21.1.jar"
+        },
+        {
+            "name": "Riche Projectiles",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
         }
     ],
     "shaderpacks": [
