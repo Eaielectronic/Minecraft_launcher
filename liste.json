@@ -121,6 +121,10 @@
         {
             "name": "Riche Projectiles",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
+        },
+        {
+            "name": "Jei",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/jei-1.21.1-neoforge-19.27.0.340.jar"
         }
     ],
     "shaderpacks": [
