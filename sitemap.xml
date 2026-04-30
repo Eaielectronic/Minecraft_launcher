@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/auth/login</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/auth/register</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/forum/</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-centrifuge</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-fissionreactor</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-fusionreactor</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-items</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-misc</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-msreactor</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/auth/forgot-password</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/auth/resend-verification</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-centrifuge</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?cat=machines</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-fissionreactor</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?cat=reacteurs</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-fusionreactor</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-items</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?cat=nuclear-science</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-misc</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-msreactor</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-othermachines</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-particleaccelerator</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-quantumtunnel</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-radiogen</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-reactorlogistics</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-steamfunnel</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-turbines</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-electrolosischamber</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-fluids</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-gases</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-generators</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?page=1&amp;q=&amp;lang=en&amp;cat=machines</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?page=2&amp;q=&amp;lang=en&amp;cat=machines</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-nuclear-radiation</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?page=1&amp;q=&amp;lang=en&amp;cat=</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?page=2&amp;q=&amp;lang=en&amp;cat=</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?page=3&amp;q=&amp;lang=en&amp;cat=</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-othermachines</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-particleaccelerator</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-quantumtunnel</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-radiogen</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-reactorlogistics</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-steamfunnel</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-turbines</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-electrolosischamber</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-fluids</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-gases</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-generators</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-machines</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-quarry</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-upgrades</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-nuclear-radiation</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?cat=radiation</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-armor</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-electricity</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-gettingstarted</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-metricprefixes</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-misc</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-ores</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-tips</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/en-electro-tools</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-machines</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-quarry</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-upgrades</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-armor</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?cat=equipements</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-electricity</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?cat=electricite</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-gettingstarted</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?cat=electrodynamics</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-metricprefixes</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-misc</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-ores</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/?cat=minerais</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-tips</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://wiki.minecraft.appel.ovh/articles/fr-electro-tools</loc>
+  <lastmod>2026-04-30T09:00:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
