@@ -1,9 +1,9 @@
-name: Auto-Update ZIP on Push
+name: Auto-Update ZIP (Exclusion JAR)
 
 on:
   push:
     paths:
-      - '1.21.1/**' # Se déclenche uniquement si des fichiers dans ce dossier changent
+      - '1.21.1/**' # Se déclenche si le contenu du dossier change
 
 jobs:
   update-release:
@@ -15,16 +15,24 @@ jobs:
       - name: Checkout du code
         uses: actions/checkout@v4
 
-      - name: Création de l'archive ZIP
+      - name: Préparation et Compression
         run: |
-          # On crée le ZIP du dossier
-          zip -r dossier_1.21.1.zip ./1.21.1
+          # 1. On crée une copie temporaire pour ne pas supprimer le fichier du dépôt
+          mkdir dist_temp
+          cp -r 1.21.1/* dist_temp/
+          
+          # 2. On supprime l'installeur neoforge spécifique de cette copie
+          rm -f dist_temp/neoforge-21.1.227-installer.jar
+          
+          # 3. On compresse le contenu restant
+          cd dist_temp
+          zip -r ../dossier_1.21.1.zip .
+          cd ..
 
-      - name: Mise à jour de la Release
+      - name: Ajouter le ZIP à la Release 'zip'
         uses: softprops/action-gh-release@v2
         with:
-          # Remplace 'latest' par le nom du tag de ta release (ex: v1.0)
           tag_name: zip
           files: dossier_1.21.1.zip
-          prerelease: false
-          # overwrite: true est le comportement par défaut pour le fichier cité
+          # 'append_body: true' ou 'false' ne change rien aux fichiers existants
+          # L'action remplace seulement le fichier de même nom (le .zip)
