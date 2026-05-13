@@ -125,6 +125,10 @@
         {
             "name": "Jei",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/jei-1.21.1-neoforge-19.27.0.340.jar"
+        },
+        {
+            "name": "Almost Unified",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/almostunified-neoforge-1.21.1-1.4.1.jar"
         }
     ],
     "shaderpacks": [
