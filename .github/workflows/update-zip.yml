@@ -1,0 +1,30 @@
+name: Auto-Update ZIP on Push
+
+on:
+  push:
+    paths:
+      - '1.21.1/**' # Se déclenche uniquement si des fichiers dans ce dossier changent
+
+jobs:
+  update-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout du code
+        uses: actions/checkout@v4
+
+      - name: Création de l'archive ZIP
+        run: |
+          # On crée le ZIP du dossier
+          zip -r dossier_1.21.1.zip ./1.21.1
+
+      - name: Mise à jour de la Release
+        uses: softprops/action-gh-release@v2
+        with:
+          # Remplace 'latest' par le nom du tag de ta release (ex: v1.0)
+          tag_name: zip
+          files: dossier_1.21.1.zip
+          prerelease: false
+          # overwrite: true est le comportement par défaut pour le fichier cité
