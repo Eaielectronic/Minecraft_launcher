@@ -1,12 +1,13 @@
-name: Auto-Update ZIP (Exclusion JAR)
+name: Build Mods ZIP from JSON
 
 on:
   push:
     paths:
-      - '1.21.1/**' # Se déclenche si le contenu du dossier change
+      - 'liste.json'         # Se déclenche si la liste est modifiée
+      - '1.21.1/**'          # Ou si un fichier local est modifié
 
 jobs:
-  update-release:
+  build-zip:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,24 +16,34 @@ jobs:
       - name: Checkout du code
         uses: actions/checkout@v4
 
-      - name: Préparation et Compression
+      - name: Installation de jq
+        run: sudo apt-get install jq -y
+
+      - name: Téléchargement des Mods
         run: |
-          # 1. On crée une copie temporaire pour ne pas supprimer le fichier du dépôt
-          mkdir dist_temp
-          cp -r 1.21.1/* dist_temp/
+          # Création d'un dossier temporaire pour les mods
+          mkdir -p temp_mods/mods
           
-          # 2. On supprime l'installeur neoforge spécifique de cette copie
-          rm -f dist_temp/neoforge-21.1.227-installer.jar
+          # Extraction des URLs de la section "mods" uniquement
+          # On boucle sur chaque URL trouvée dans le JSON
+          urls=$(jq -r '.mods[].url' liste.json)
           
-          # 3. On compresse le contenu restant
-          cd dist_temp
-          zip -r ../dossier_1.21.1.zip .
+          for url in $urls; do
+            echo "Téléchargement de : $url"
+            # On télécharge dans le dossier temp_mods/mods
+            curl -L "$url" --output-dir temp_mods/mods -O
+          done
+
+      - name: Création de l'archive ZIP
+        run: |
+          # On compresse le contenu du dossier temp_mods (qui contient le sous-dossier mods)
+          cd temp_mods
+          zip -r ../mods_1.21.1.zip .
           cd ..
 
-      - name: Ajouter le ZIP à la Release 'zip'
+      - name: Upload vers la Release 'zip'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: zip
-          files: dossier_1.21.1.zip
-          # 'append_body: true' ou 'false' ne change rien aux fichiers existants
-          # L'action remplace seulement le fichier de même nom (le .zip)
+          files: mods_1.21.1.zip
+          fail_on_unmatched_files: true
