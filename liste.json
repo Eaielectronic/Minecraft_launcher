@@ -129,6 +129,42 @@
         {
             "name": "Almost Unified",
             "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/almostunified-neoforge-1.21.1-1.4.1.jar"
+        },
+        {
+            "name": "The Factory Must Grow (TFMG)",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/tfmg-1.2.0%20(1).jar"
+        },
+        {
+            "name": "MoreCulling",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/moreculling-neoforge-1.21.1-1.0.8.jar"
+        },
+        {
+            "name": "Create HyperTube",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/create_hypertube-0.4.0-COMPAT-NEOFORGE%20(1).jar"
+        },
+        {
+            "name": "Modular Force Fields",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/modularforcefields-1.21.1-0.4.0-1%20(1).jar"
+        },
+        {
+            "name": "Create Deco",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/createdeco-2.1.3%20(1).jar"
+        },
+        {
+            "name": "Blastcraft",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/blastcraft-1.21.1-0.6.0-1%20(1).jar"
+        },
+        {
+            "name": "Cloth Config API",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/cloth-config-15.0.140-neoforge.jar"
+        },
+        {
+            "name": "Create: Steam 'n' Rails",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/railways-0.2.0+neoforge-mc1.21.1%20(1).jar"
+        },
+        {
+            "name": "Ballistix",
+            "url": "https://github.com/Eaielectronic/Minecraft_launcher/raw/refs/heads/main/1.21.1/ballistix-1.21.1-1.0.1-0%20(1).jar"
         }
     ],
     "shaderpacks": [
